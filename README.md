@@ -23,8 +23,8 @@
  - **stac2cube.super_resolution**
     - Applies super-resolution algorithm on both 10-meters and 20-meters bands and results in 2.5-meters resolution stacks.
  - **Updating Mechanism**
-  - If the computer is not competent enough to produce long-term data cubes (e.g., 8 years), then the user can activate updating mechanism and collect the data with different time ranges.
-  - Example: request data for 2018 only, then request 2019 with update mechanism and it will combine the both data. 
+    - If the computer is not competent enough to produce long-term data cubes (e.g., 8 years), then the user can activate updating mechanism and collect the data with different time ranges.
+    - Example: request data for 2018 only, then request 2019 with update mechanism and it will combine the both data. 
     
 
 
