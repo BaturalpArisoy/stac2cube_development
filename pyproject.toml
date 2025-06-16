@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "stac2cube"
-version = "1.0.0"
-description = "STAC to Analysis-Ready-Data Cubes w/ terrabyte by DLR & LRZ"
+version = "0.1.0"
+description = "STAC to Analysis-Ready-Data Cubes"
 authors = [
   { name = "Baturalp Arisoy", email = "baturalp.arisoy@uni-wuerzburg.de" }
 ]
