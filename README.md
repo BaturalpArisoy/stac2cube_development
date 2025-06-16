@@ -1,6 +1,7 @@
 # stac2cube 🛰️🧊<br> Spatio-Temporal Asset Catalogs To Analysis-Ready Data Cubes
 **stac2cube** converts STAC catalogs into Analysis-Ready Data Cubes for efficient Earth Observation (EO) processing.
-UPDATE: The repository will be published once the preprint version of the paper is available. 
+
+# UPDATE: The repository will be published once the preprint version of the paper is available. 
 
 ## Feature Overview
 - **stac2cube.get_stac_layers**
